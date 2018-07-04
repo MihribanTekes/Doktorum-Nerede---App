@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/baslangic"
+            android:icon="@drawable/ribbon"
+            android:title="Başlangıç Sayfası" />
+        <item
+            android:id="@+id/hastane_bilgileri"
+            android:icon="@drawable/ribbon"
+            android:title="Hastane Bilgileri" />
+        <item
+            android:id="@+id/acil_tip"
+            android:icon="@drawable/ribbon"
+            android:title="Acil Tıp" />
+
+        <item
+            android:id="@+id/anestezi"
+            android:icon="@drawable/ribbon"
+            android:title="Anestezi" />
+        <item
+            android:id="@+id/beyin_cerrahi"
+            android:icon="@drawable/ribbon"
+            android:title="Beyin Cerrahi" />
+        <item
+            android:id="@+id/biyokimya"
+            android:icon="@drawable/ribbon"
+            android:title="Biyokimya" />
+        <item
+            android:id="@+id/cildiye"
+            android:icon="@drawable/ribbon"
+            android:title="Cildiye" />
+        <item
+            android:id="@+id/cocuk_cerrahi"
+            android:icon="@drawable/ribbon"
+            android:title="Çocuk Cerrahi" />
+        <item
+            android:id="@+id/cocuk_hastaliklari"
+            android:icon="@drawable/ribbon"
+            android:title="Çocuk Hastalıkları" />
+        <item
+            android:id="@+id/cocuk_psikoloji"
+            android:icon="@drawable/ribbon"
+            android:title="Çocuk Psikoloji" />
+
+        <item
+            android:id="@+id/dahiliye"
+            android:icon="@drawable/ribbon"
+            android:title="Dahiliye" />
+
+        <item
+            android:id="@+id/endokrin"
+            android:icon="@drawable/ribbon"
+            android:title="Endokrin" />
+
+        <item
+            android:id="@+id/enfeksiyon"
+            android:icon="@drawable/ribbon"
+            android:title="Enfeksiyon" />
+        <item
+            android:id="@+id/ftr"
+            android:icon="@drawable/ribbon"
+            android:title="FTR" />
+        <item
+            android:id="@+id/gastroloji"
+            android:icon="@drawable/ribbon"
+            android:title="Gastroloji" />
+
+        <item
+            android:id="@+id/genel_cerrahi"
+            android:icon="@drawable/ribbon"
+            android:title="Genel Cerrahi" />
+        <item
+            android:id="@+id/gogus_cerrahi"
+            android:icon="@drawable/ribbon"
+            android:title="Göğüs Cerrahi" />
+        <item
+            android:id="@+id/gogus_hastaliklari"
+            android:icon="@drawable/ribbon"
+            android:title="Göğüs Hastalıkları" />
+
+        <item
+            android:id="@+id/goz_hastaliklari"
+            android:icon="@drawable/ribbon"
+            android:title="Göz Hastalıkları" />
+        <item
+            android:id="@+id/hematoloji"
+            android:icon="@drawable/ribbon"
+            android:title="Hematoloji" />
+        <item
+            android:id="@+id/kadin_dogum"
+            android:icon="@drawable/ribbon"
+            android:title="Kadın Doğum" />
+        <item
+            android:id="@+id/kalp_damar_cerrahi"
+            android:icon="@drawable/ribbon"
+            android:title="Kalp Damar Cerrahi" />
+        <item
+            android:id="@+id/kardiyoloji"
+            android:icon="@drawable/ribbon"
+            android:title="Kardiyoloji" />
+        <item
+            android:id="@+id/kbb"
+            android:icon="@drawable/ribbon"
+            android:title="Kulak Burun Boğaz" />
+        <item
+            android:id="@+id/mikrobiyoloji"
+            android:icon="@drawable/ribbon"
+            android:title="Mikrobiyoloji" />
+        <item
+            android:id="@+id/nefroloji"
+            android:icon="@drawable/ribbon"
+            android:title="Nefroloji" />
+        <item
+            android:id="@+id/noroloji"
+            android:icon="@drawable/ribbon"
+            android:title="Nöroloji" />
+        <item
+            android:id="@+id/nukleer_tip"
+            android:icon="@drawable/ribbon"
+            android:title="Nükleer Tıp" />
+        <item
+            android:id="@+id/onkoloji"
+            android:icon="@drawable/ribbon"
+            android:title="Onkoloji" />
+        <item
+            android:id="@+id/ortopedi"
+            android:icon="@drawable/ribbon"
+            android:title="Ortopedi" />
+        <item
+            android:id="@+id/patoloji"
+            android:icon="@drawable/ribbon"
+            android:title="Patoloji" />
+        <item
+            android:id="@+id/plastik_cerrahi"
+            android:icon="@drawable/ribbon"
+            android:title="Plastik Cerrahi" />
+        <item
+            android:id="@+id/pratisyen"
+            android:icon="@drawable/ribbon"
+            android:title="Pratisyen" />
+        <item
+            android:id="@+id/psikiyatri"
+            android:icon="@drawable/ribbon"
+            android:title="Psikiyatri" />
+        <item
+            android:id="@+id/radyoloji"
+            android:icon="@drawable/ribbon"
+            android:title="Radyoloji" />
+        <item
+            android:id="@+id/uroloji"
+            android:icon="@drawable/ribbon"
+            android:title="Üroloji" />
+
+
+    </group>
+
+
+</menu>
