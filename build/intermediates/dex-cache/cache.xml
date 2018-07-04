@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\mihri\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_8dda95e6cf90b13a1611338e93ea5876377851bd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_3f147db8acc319a16677c09b21be116d09b847e5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_4f4fb543a3afce04b1468ee2a67a55dcb163b9fa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_879b35c6674dd01c7038752270eebe84127aa40d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_8be90057deb09feb94f5c68911c43e82ae8eb9e7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6fa312c4170382511fc651ed2c23a3a6f1c384f4">
+        <dex dex="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_02143c287d57f3f54598df1dffaf369c3f5fb3f7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aecef2dd5101f757850299b2f4bf96c61c2eaa3c">
+        <dex dex="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_61197e342ec8ab8af16200ceebb21dee741d7cc3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_5ec6f233b60d56cce3c5da595eff60bd3c8323d9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_050a38e4fca38424ae76413c48a6bf192c6ab1a7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mihri\Desktop\NavigationApp\app\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.5_e9f38c6e8c8ef716dda0535985735e6688d397e0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\mihri\Desktop\NavigationApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_6a082cdf49201a5673fe33aba8e96648055e8243\classes.dex" />
+    </item>
+
+</items>
